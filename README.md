@@ -1,4 +1,5 @@
-**## Lego Brick Classification using VGG16
+**
+## Lego Brick Classification using VGG16
 
 This project uses transfer learning with the VGG16 model to classify Lego brick images into 5 categories.
 
